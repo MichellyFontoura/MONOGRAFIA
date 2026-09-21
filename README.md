@@ -1,2 +1,0 @@
-# DSA
-Curso PowerBI
